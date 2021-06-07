@@ -7,5 +7,5 @@ Results: The best model developed was Decision Tree (entropy) with best stroke p
 Developed using Jupyter Notebook
 
 
-## Contributers
+## Contributors
 Joey Peric, Cristian Gallegos, Jay Patel
