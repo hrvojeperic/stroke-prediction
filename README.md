@@ -4,7 +4,7 @@ Determine which predictor variables have a large impact on whether or not someon
 Results: The best model developed was Decision Tree (entropy) with best stroke predictor variables being marriage status, gender, and age.
 
 ## Project Details
-Developed using Jupyter Notebook
+Developed using Python, Jupyter Notebook, Pandas, Scikit-learn
 
 
 ## Contributors
